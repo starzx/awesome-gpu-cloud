@@ -97,6 +97,7 @@
 - **[TransAtlas Cost Calculator](https://compare.transatlas.co/tools/calculator)** — Calculate total cost for AI workloads across platforms
 - **[TransAtlas GPU Detail Pages](https://compare.transatlas.co/gpu-detail/RTX%204090)** — Per-GPU pricing, specs, and provider comparison
 - **[TransAtlas Provider Reviews](https://compare.transatlas.co/providers)** — In-depth reviews of each GPU cloud provider
+- **[GrabGPU](https://grabgpu.com/)** — Cloud GPU prices with live stock from 22 providers, updated every hour
 
 ---
 
