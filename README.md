@@ -45,6 +45,7 @@
 | **[Voltage Park](https://compare.transatlas.co/providers/voltagepark)** | A100-80GB, H100 | Long-term rentals, bare metal | [TransAtlas Review](https://compare.transatlas.co/providers/voltagepark) |
 | **DataCrunch** | H100, H200, L40S | European GPU cloud, low latency | [TransAtlas Review](https://compare.transatlas.co/providers/datacrunch) |
 | **Nebius** | H100, H200, L40S | AI cloud infrastructure | [TransAtlas Review](https://compare.transatlas.co/providers/nebius) |
+| **[QIT](https://qit.energy/)** | L40s, RTX PRO 6000, H100, H200, B200, B300 | Serverless/reserved GPUs + Model API; liquid-cooled GPU containers | [Pricing](https://qit.energy/pricing) |
 | **Vultr** | A100, L40, A40 | Cloud GPU with global reach | [TransAtlas Review](https://compare.transatlas.co/providers/vultr) |
 
 ---
